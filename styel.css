@@ -12,6 +12,8 @@
     font-weight: 400;
 }
 
+
+
 /* body.modal-open>div.bg,
         .modal-backdrop.fade.show {
             z-index: 1;
@@ -32,5 +34,9 @@
 @media only screen and (max-width: 600px) {
     * {
         overflow: scroll;
+
     }
+
+    .modal-dialog {}
+
 }
